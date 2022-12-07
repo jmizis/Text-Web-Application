@@ -14,6 +14,8 @@ On Github I was able to create a new repository where I was able to push all my 
 For this assignment we had to deploy our application to heroku.  By D\doing a "git push heroku main" I was able to get it deployed.
 URL: https://text-app-mizis.herokuapp.com/
 
+![Screenshot (5)](https://user-images.githubusercontent.com/107073756/206284165-eb6d8793-7bf2-41d0-882e-dfc799ca5e35.png)
+
 
  
 
